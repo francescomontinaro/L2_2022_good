@@ -1,0 +1,29 @@
+PLINK v1.90b6.26 64-bit (2 Apr 2022)
+Options in effect:
+  --bfile subset1KGPApril2016NewMapAutoChr2Geno01Missing01HWELD
+  --make-bed
+  --out subset1KGPApril2016NewMapAutoChr2Geno01Missing01HWELD5kSNPs
+  --thin-count 5000
+
+Hostname: francesco-latitudee6540
+Working directory: /home/francesco/Dropbox/Corsi/Antropologia_Molecolare_e_genetica_delle_dipendenzeII/Esercitazioni/L2
+Start time: Thu May 19 13:55:37 2022
+
+Random number seed: 1652961337
+15906 MB RAM detected; reserving 7953 MB for main workspace.
+61715 variants loaded from .bim file.
+2309 people (0 males, 0 females, 2309 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+subset1KGPApril2016NewMapAutoChr2Geno01Missing01HWELD5kSNPs.nosex .
+--thin-count: 56715 variants removed (5000 remaining).
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2309 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.998317.
+5000 variants and 2309 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to subset1KGPApril2016NewMapAutoChr2Geno01Missing01HWELD5kSNPs.bed +
+subset1KGPApril2016NewMapAutoChr2Geno01Missing01HWELD5kSNPs.bim +
+subset1KGPApril2016NewMapAutoChr2Geno01Missing01HWELD5kSNPs.fam ... done.
+
+End time: Thu May 19 13:55:38 2022
